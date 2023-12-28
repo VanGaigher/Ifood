@@ -1,3 +1,51 @@
+# iFood Customer Data Analysis
+
+## Objective
+
+This project involves exploratory analysis and hypothesis testing on iFood's customer data. The dataset used was provided in the EBA - Statistics from Basic to Advanced course.
+
+## Contents
+
+- `mkt_data.csv`: Public CSV file containing iFood customer data.
+- `PF_Ifood-checkpoint.ipynb`: Jupyter Notebook with descriptive analysis of the data and hypothesis testing on customer expenses based on the number of children.
+
+## Descriptive Analysis
+
+During the descriptive analysis phase, the dataset was explored to understand customer profiles. The following steps were taken:
+
+- Data treatment: identifying and handling missing or duplicate values.
+- Identification of key customer characteristics (incomes, educational level, marital status).
+- Analysis of the relationship between these characteristics and expenses on the platform.
+- Visualization of data through graphs to enhance comprehension of distributions.
+- Several business questions were raised for further analysis.
+
+## Hypothesis Testing - Customer Expenses Based on Children
+
+The marketing team requested a detailed analysis of customer expenses based on different numbers of children. For this purpose, a hypothesis test was conducted to address the following questions:
+- Is the expense average different among customer groups with 1, 2, 3, or more children?
+- Which groups exhibit the lowest expense averages on the platform?
+
+## Results
+
+The results of the hypothesis test indicated:
+- Statistically significant differences among customer groups with different numbers of children.
+- Identification of groups with the lowest expense averages, providing insights for the marketing team's campaign strategy.
+
+## Next Steps
+
+Planned next steps include:
+- Refining the analysis by considering other relevant variables.
+- Validating results using additional statistical techniques.
+- Sharing insights with the marketing team to enhance campaign segmentation.
+
+## How to Contribute
+
+Contributions are welcome! Feel free to open issues, send suggestions, or propose improvements.
+
+
+**************************************************************************************************************************************************************
+
+
 # Análise de Dados dos Clientes do iFood
 
 ## Objetivo
